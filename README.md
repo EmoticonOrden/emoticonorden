@@ -4,6 +4,6 @@
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/shell-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 - 🔭 I’m currently working on some secret projects.
-- 🌱 I’m currently learning `Shell`, `Linux`, `Docker`, 
+- 🌱 I’m currently learning `Shell`, `Linux`, `Docker`, and `Python`.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [✉️ Mail](mailto:emoticonorden@palata.space)
